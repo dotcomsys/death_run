@@ -1,0 +1,27 @@
+# --- s&box Specific ---
+# Internal editor metadata and temporary files
+/.sbox
+*.generated.*
+*.*_c
+*.los
+*.vpk
+
+# --- C# / .NET / Visual Studio ---
+# Ignore compiled binaries and build artifacts
+[Bb]in/
+[Oo]bj/
+*.csproj
+*.sln
+*.user
+*.suo
+*.userosscache
+*.sln.doccache
+
+# IDE specific folders
+.vs/
+.vscode/
+.idea/
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db

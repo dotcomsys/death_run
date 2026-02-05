@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Editor": {
+      "commandName": "Executable",
+      "executablePath": "C:\\program files (x86)\\steam\\steamapps\\common\\sbox\\sbox-dev.exe",
+      "commandLineArgs": "-project \u0022c:\\users\\calib\\onedrive\\documents\\s\u0026box projects\\death_run\\death_run.sbproj\u0022"
+    }
+  }
+}
